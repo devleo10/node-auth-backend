@@ -133,7 +133,7 @@ curl -X POST https://node-auth-backend-1.onrender.com/api/auth/register \
 
 ```bash
 src/
-├── controllers/     # Business logic
+├── controllers/     # Routinh logic
 ├── models/          # MongoDB schemas
 ├── routes/          # API endpoints
 ├── middleware/      # Auth & error handlers
