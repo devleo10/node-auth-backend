@@ -14,7 +14,7 @@ A secure RESTful API for user authentication and profile management with JWT, bu
 
 ## 🔗 Quick Links
 
-- [Live API on Render](https://node-auth-backend-1.onrender.com)
+- [Live API on Render]([https://node-auth-backend-1.onrender.com](https://node-auth-backend-9i88.onrender.com))
 - [Postman Documentation](https://skillful-sailboat-072.notion.site/Postman-API-Documentation-for-Node-Auth-Backend-1c5378b5f42f80a4a33ce5c6e2db5dbd)
 - [Deploy to Render](https://render.com/deploy)
 
